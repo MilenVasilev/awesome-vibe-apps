@@ -49,6 +49,7 @@ A curated list of released apps built with AI assistance.
 - [Education and Reference](#education-and-reference)
 - [Finance](#finance)
 - [Games](#games)
+- [Sports and Fitness](#sports-and-fitness)
 - [Icon legend](#icon-legend)
 - [Contributing](#contributing)
 - [License](#license)
@@ -182,6 +183,14 @@ A curated list of released apps built with AI assistance.
 ## Games
 
 *Play games and explore tools for gaming.*
+
+---
+
+## Sports and Fitness
+
+*Track workouts, training, and athletic performance.*
+
+- [GoldArrowTracker](https://goldarrowtracker.com/) — Cross-platform archery scoring and biomechanical form analysis using on-device computer vision to detect targets and track training. · **Android, iOS, Web** · <img src="assets/icons/free-to-use.svg" width="16" height="16" alt="Free to use"> <a href="https://play.google.com/store/apps/details?id=com.PrixesSoft.goldtracker"><img src="assets/icons/google-play.svg" width="16" height="16" alt="Google Play"></a> <a href="https://apps.apple.com/us/app/gold-arrow-archery-tracker/id6771292995"><img src="assets/icons/ios-app-store.svg" width="16" height="16" alt="iOS App Store"></a> <a href="https://goldarrowtracker.com/app/"><img src="assets/icons/web-app.svg" width="16" height="16" alt="Web app"></a> <img src="assets/icons/works-offline.svg" width="16" height="16" alt="Works offline"> <img src="assets/icons/ai-features.svg" width="16" height="16" alt="AI features">
 
 ---
 
