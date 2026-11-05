@@ -67,6 +67,8 @@ A curated list of released apps built with AI assistance.
 
 ### Time Tracking
 
+- [VelocyTrack](https://velocytrack.com/) — Engineering cockpit for Azure DevOps time tracking, sprint capacity planning, and multi-repository pull request management. · **Web** · <img src="assets/icons/free-tier.svg" width="16" height="16" alt="Free tier"> <a href="https://beta.velocytrack.com/"><img src="assets/icons/web-app.svg" width="16" height="16" alt="Web app"></a> <img src="assets/icons/beta-preview.svg" width="16" height="16" alt="Beta / Preview">
+
 ### Personal Knowledge Management
 
 ---
