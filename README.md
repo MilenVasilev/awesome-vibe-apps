@@ -148,6 +148,8 @@ A curated list of released apps built with AI assistance.
 
 ### File Management
 
+- [ElfClean](https://elfclean.app/) — Finds the disk space used by node_modules, DerivedData, package caches and local AI models, explains each item and opens a review before a clean. · **macOS** · <img src="assets/icons/free-tier.svg" width="16" height="16" alt="Free tier"> <a href="https://apps.apple.com/app/apple-store/id6819001057?pt=129383521&ct=dir-awesome-vibe-apps&mt=12"><img src="assets/icons/mac-app-store.svg" width="16" height="16" alt="Mac App Store"></a> <img src="assets/icons/native-app.svg" width="16" height="16" alt="Native app">
+
 ### Window Management
 
 ### Automation
